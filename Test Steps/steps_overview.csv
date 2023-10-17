@@ -1,3 +1,3 @@
 Flow ID,Description,Test Steps,Flow Priority
-1,Verify successful navigation to page Emo Localhost Direct8888,"step 1: Navigate to Page emo localhost direct:8888
-step 2: Add visual checkpoint at Page emo localhost direct:8888",Trivial
+1,Verify successful navigation to Home Page,"step 1: Navigate to Page home
+step 2: Add visual checkpoint at Page home",Trivial

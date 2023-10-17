@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page emo localhost direct:8888'
+'step 1: Navigate to Page home'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/')
 
-'step 2: Add visual checkpoint at Page emo localhost direct:8888'
+'step 2: Add visual checkpoint at Page home'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify successful navigation to page Emo Localhost Direct8888_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC1-Verify successful navigation to Home Page_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

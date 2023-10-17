@@ -2,21 +2,21 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>''user''</initValue>
+        <initValue>'user'</initValue>
         <name>username</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>''password''</initValue>
+        <initValue>'password'</initValue>
         <name>password</name>
     </GlobalVariableEntity>
     <GlobalVariableEntity>
         <description></description>
-        <initValue>''http://demo.localhost.direct:8888''</initValue>
+        <initValue>'http://mysaucelab.demo:8888'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
-    <defaultProfile>False</defaultProfile>
+    <defaultProfile>True</defaultProfile>
     <description></description>
-    <name>default</name>
+    <name>default-2</name>
     <tag></tag>
 </GlobalVariableEntities>
